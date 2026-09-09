@@ -1,3 +1,5 @@
+# https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1
+
 class Solution:
     def segregate0and1(self, arr):
         n=len(arr)
